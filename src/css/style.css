@@ -37,14 +37,18 @@ button {
 }
 
 button,
-input {
+input, .input-field {
   @apply outline-none border-none border-0;
 }
 
-input {
+input, .input-field {
   @apply p-3 bg-slate-1 dark:bg-black-3 rounded-md !text-sm;
   @apply dark:text-white-2;
   @apply focus:outline-blue;
+}
+
+.input-field {
+  @apply w-full;
 }
 
 h1 {
@@ -102,3 +106,4 @@ h3 {
     transform: rotateX(0deg);
   }
 }
+
