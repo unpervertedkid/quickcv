@@ -1,7 +1,7 @@
-import Navbar from "./navbar";
-import ModesBtn, { editorMode } from "./modeSwitcher";
-import Editor from "./editor/editor";
-import Viewer from "./viewer";
+import Navbar from "./Navbar";
+import ModesBtn, { editorMode } from "./Modeswitcher";
+import Editor from "./editor/Editor";
+import Viewer from "./viewer/Viewer";
 
 function App() {
   return (

@@ -1,5 +1,5 @@
 import { store } from "../../store";
-import Section from "./section";
+import Section from "./Section";
 
 export default function WorkExperience() {
     const children = store["work experience"].map((x) => (

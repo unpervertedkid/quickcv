@@ -1,11 +1,11 @@
-import { store } from "../store";
-import About from "./viewer/about";
-import Education from "./viewer/education";
-import Interests from "./viewer/interests";
-import Name from "./viewer/name";
-import PersonalDetails from "./viewer/personalDetails";
-import Projects from "./viewer/projects";
-import WorkExperience from "./viewer/workExperience";
+import { store } from "../../store";
+import About from "./About";
+import Education from "./Education";
+import Interests from "./Interests";
+import Name from "./Name";
+import PersonalDetails from "./Personaldetails";
+import Projects from "./Projects";
+import WorkExperience from "./Workexperience";
 
 
 export default function Viewer(){

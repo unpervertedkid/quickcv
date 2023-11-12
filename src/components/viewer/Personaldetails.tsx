@@ -1,8 +1,8 @@
-import Section from "./section";
+import Section from "./Section";
 import { store } from "../../store";
-import EmailContact from "./personalDetails/emailContactItem";
-import PhoneContact from "./personalDetails/phoneContactItem";
-import GithubContact from "./personalDetails/githubContactItem";
+import EmailContact from "./personalDetails/Emailcontactitem";
+import PhoneContact from "./personalDetails/Phonecontactitem";
+import GithubContact from "./personalDetails/Githubcontactitem";
 
 export default function PersonalDetails() {
     const children = (

@@ -1,6 +1,6 @@
-import PersonalDetails from "./personalDetails";
+import PersonalDetails from "./Personaldetails";
 import About from "./About";
-import Experience from "./experience";
+import Experience from "./Experience";
 import SkillsHobbies from "./SkillsHobbies";
 import Projects from "./Projects";
 

@@ -1,5 +1,5 @@
 import * as htmlToImage from "html-to-image";
-import { setFormat, setLoaderIcon, showFormat } from "./components/navbar";
+import { setFormat, setLoaderIcon, showFormat } from "./components/Navbar";
 
 function generatePDF() {
   showFormat(false);

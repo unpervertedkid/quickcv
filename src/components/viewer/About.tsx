@@ -1,5 +1,5 @@
 import { store } from "../../store";
-import Section from "./section";
+import Section from "./Section";
 
 export default function About() {
     const children = <div>{store.profile}</div>;

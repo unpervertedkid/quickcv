@@ -1,5 +1,5 @@
 import { store } from "../../store";
-import Section from "./section";
+import Section from "./Section";
 import { Icon } from "@iconify-icon/solid";
 
 export default function Projects() {

@@ -1,4 +1,4 @@
-import ContactItem from "./contactItem";
+import ContactItem from "./Contactitem";
 
 interface EmailContactProps {
     email: string;
